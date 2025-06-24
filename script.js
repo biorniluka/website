@@ -1,7 +1,7 @@
 // Example car data
 const cars = [
-    { name: "PORSCHE", brand: "PORSCHE", type: "CAYENE", year: 2015, price: 75, rating: 4.9 },
-    { name: "MERCEDES-BENZ", brand: "MERCEDES-BENZ", type: "ML", year: 2015, price: 70, rating: 4.9 },
+    { name: "PORSCHE", brand: "PORSCHE", type: "CAYENE", year: 2015, price: 80, rating: 4.9 },
+    { name: "MERCEDES-BENZ", brand: "MERCEDES-BENZ", type: "ML", year: 2015, price: 75, rating: 4.9 },
     // Add more cars here...
 ];
 
