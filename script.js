@@ -2,7 +2,15 @@
 const cars = [
     { name: "PORSCHE", brand: "PORSCHE", type: "CAYENE", year: 2015, price: 80, rating: 4.9 },
     { name: "MERCEDES-BENZ", brand: "MERCEDES-BENZ", type: "ML", year: 2015, price: 75, rating: 4.9 },
-    // Add more cars here...
+    { name: "VOLKSWAGEN", brand: "VOLKSWAGEN", type: "TOUAREG", year: 2014, price: 70, rating: 4.8 },
+    { name: "AUDI", brand: "AUDI", type: "A6", year: 2014, price: 65, rating: 4.7 },
+    { name: "VOLKSWAGEN", brand: "VOLKSWAGEN", type: "GOLF 7", year: 2016, price: 40, rating: 4.8 },
+    { name: "VOLKSWAGEN", brand: "VOLKSWAGEN", type: "GOLF 6", year: 2012, price: 35, rating: 4.7 },
+    { name: "AUDI", brand: "AUDI", type: "A3", year: 2011, price: 35, rating: 4.5 },
+    { name: "AUDI", brand: "AUDI", type: "A3", year: 2013, price: 35, rating: 4.7 },
+    { name: "VOLKSWAGEN", brand: "VOLKSWAGEN", type: "GOLF 6+", year: 2010, price: 35, rating: 4.0 },
+    { name: "VOLKSWAGEN", brand: "VOLKSWAGEN", type: "GOLF 5", year: 2010, price: 25, rating: 3.9 }
+];here...
 ];
 
 // Function to render cars
